@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c76c7273-05a6-4355-9c87-1c7ee971c2e5">
+  <producedTypes>
+    <refType typeId="a0841053-dbd8-470b-bc5b-3fd72cf2f14a" valueTypeId="75eefd1b-7fb8-4298-b66e-f52caffcba06"/>
+    <listType typeId="77ac32f8-f293-4bd4-90d6-767002dddf2f" valueTypeId="8ed0acd2-da65-4ee9-8bdb-c9c63173acea"/>
+    <managerType typeId="724e3e5f-59c7-4e65-b721-90555ea966e6" valueTypeId="e2480b70-96c8-4c0d-a17e-9348c4ae7714"/>
+  </producedTypes>
+  <name>ВКМ_ВидыДоговоровКонтрагентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды договоров контрагентов</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="7d5e98a8-1628-46dd-960f-3283e5da14a8">
+    <name>АбонентскаяПлата</name>
+    <synonym>
+      <key>ru</key>
+      <value>Абонентская плата</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
